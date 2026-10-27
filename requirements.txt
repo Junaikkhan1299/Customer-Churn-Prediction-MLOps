@@ -6,4 +6,4 @@ mlflow==2.17.2
 pytest==8.3.3
 dvc==3.56.0
 fastapi==0.115.4
-uvicorn==0.32.0python 
+uvicorn==0.32.0 
